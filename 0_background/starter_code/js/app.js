@@ -1,0 +1,9 @@
+function doMagic()
+{
+
+}
+
+function disappear()
+{
+
+}
